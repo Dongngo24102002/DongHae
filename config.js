@@ -1,18 +1,18 @@
 const CONFIG = {
-    titleWeb: "Web của Vân Anh",
-    introTitle: 'Chó Ngu',
+    titleWeb: "Web của Hường",
+    introTitle: 'Hello Hường Xinh Gái',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^Bấm đây^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Đừng lo lắng em ơi 🥰',
+    desc: 'Chuyện ngày mai đã có anh rồi ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Em chỉ cần luôn nhớ và hướng trái tim về anh',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Vâng ạaaaaaa',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 9h, nhắn tin chơi nha',
     btnAccept: 'Okiiiii lun <3',

@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Vâng ạaaaaaa',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 9h, nhắn tin chơi nha',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'https://m.me/anhdongdeptrai2002' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
